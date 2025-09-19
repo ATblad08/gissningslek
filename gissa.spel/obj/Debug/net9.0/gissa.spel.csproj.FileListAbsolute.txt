@@ -1,0 +1,14 @@
+C:\programering\gissa.spel\bin\Debug\net9.0\gissa.spel.exe
+C:\programering\gissa.spel\bin\Debug\net9.0\gissa.spel.deps.json
+C:\programering\gissa.spel\bin\Debug\net9.0\gissa.spel.runtimeconfig.json
+C:\programering\gissa.spel\bin\Debug\net9.0\gissa.spel.dll
+C:\programering\gissa.spel\bin\Debug\net9.0\gissa.spel.pdb
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.AssemblyInfoInputs.cache
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.AssemblyInfo.cs
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.csproj.CoreCompileInputs.cache
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.dll
+C:\programering\gissa.spel\obj\Debug\net9.0\refint\gissa.spel.dll
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.pdb
+C:\programering\gissa.spel\obj\Debug\net9.0\gissa.spel.genruntimeconfig.cache
+C:\programering\gissa.spel\obj\Debug\net9.0\ref\gissa.spel.dll
